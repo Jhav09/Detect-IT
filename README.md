@@ -23,12 +23,14 @@ pip install opencv-python
 bash
 Copy
 Edit
-.
+
+```
 ├── main.py               # Main program: captures video and detects motion
 ├── emailing.py           # Emailing module to send images with motion
 ├── tempCodeRunnerFile.py # Temporary scratch file
 ├── thumb.jpeg            # Sample motion detection image
 └── images/               # Runtime folder for storing captured frames
+```
 
 ⚙️ How It Works
 Captures video from the webcam.
