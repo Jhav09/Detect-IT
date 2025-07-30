@@ -17,6 +17,7 @@ A real-time motion detection system using OpenCV that captures an image when mov
 Install dependencies:
 ```bash
 pip install opencv-python
+```
 
 🗂️ Project Structure
 bash
@@ -54,8 +55,10 @@ Run the script with:
 bash
 Copy
 Edit
+```
 python main.py
 Press q to exit the program gracefully.
+```
 
 ✉️ Email Configuration
 Open emailing.py and set your email credentials:
@@ -63,9 +66,11 @@ Open emailing.py and set your email credentials:
 python
 Copy
 Edit
+```
 SENDER = "your_email@gmail.com"
 RECEIVER = "receiver_email@gmail.com"
 PASSWORD = "your_gmail_app_password"
+```
 
 🤝 Contribution
 Feel free to fork this repo and add your improvements. Pull requests are welcome!
